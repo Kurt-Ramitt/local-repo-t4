@@ -15,3 +15,7 @@ Steps Taken to complete the activity.
 7. When the request was reviewed and approved, the pull request was completed.
 
 8. A readme file was added with the details above.
+
+**Names of Collaborators**:
+1. Kurt Ramitt
+2. Hemwanttie Singh
